@@ -9,7 +9,7 @@ cd 639_AOCR
 - python 請使用 3.12.0
 - 安裝相關套件
 ```
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 # 標記工具
